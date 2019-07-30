@@ -12,8 +12,8 @@ Trigger a ReachM+ GPS module and a GoPro session camera using a Wemos D1 mini at
 3. Connect Reach M+ to Wemos D1 Mini
 
 **Connections**
-Reach M+                     Wemos D1 Mini
-------------------------------------------
+
+*Reach M+*                ->     *Wemos D1 Mini*
 * C1 Time marker pin      ->         D6
 * Indicator LED           ->         D5      (Optional. just to indicate D1 is triggering the camera & GPS devices)
         
