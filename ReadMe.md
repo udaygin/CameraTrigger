@@ -5,6 +5,8 @@
 
 Trigger a ReachM+ GPS module and a GoPro session camera using a Wemos D1 mini at the same time to get high accuracy gps info for images captured by gopro.
 
+**Info about Gopro api's** : https://github.com/KonradIT/goprowifihack/blob/master/HERO4/WifiCommands.md
+
 **Steps to use :**
 
 1. Dump the firmware in to Wemos D1 Mini (or any other esp8266 variant) and ensure that it is working fine
@@ -18,3 +20,5 @@ Trigger a ReachM+ GPS module and a GoPro session camera using a Wemos D1 mini at
 * Indicator LED           ->         D5      (Optional. just to indicate D1 is triggering the camera & GPS devices)
         
 ![Connections](circuit.jpeg?raw=true "Connections")
+
+
