@@ -1,0 +1,13 @@
+SSID = "session"
+PASSWORD = "session_1989"
+GOPRO_API = "http://10.5.5.9/gp/gpControl/command/shutter?p=1"
+
+PRE_BOOT_DELAY = 10
+
+CAMERA_TRIGGER_PIN = 6
+LED_INDICATOR_PIN = 5
+
+
+INDICATOR_LED_DURATION = 1
+CAMERA_TRIGGER_DELAY = 30
+PULSE_MILLIS = 10
