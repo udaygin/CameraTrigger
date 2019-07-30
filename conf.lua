@@ -1,5 +1,5 @@
-SSID = "session"
-PASSWORD = "session_1989"
+SSID = ""
+PASSWORD = ""
 GOPRO_API = "http://10.5.5.9/gp/gpControl/command/shutter?p=1"
 
 PRE_BOOT_DELAY = 10
